@@ -1,0 +1,14 @@
+/*
+CSS Name: Default Styles
+Description: NextGEN Default Gallery Stylesheet
+Author: Imagely
+Version: 2.13
+
+This stylesheet is provided to allow users the ability of overriding the default styles for all display types
+*/
+
+.ngg-gallery-thumbnail-box.ngg-4-columns {
+    width: auto !important;
+    float: none !important;
+    padding: 10px;
+}
